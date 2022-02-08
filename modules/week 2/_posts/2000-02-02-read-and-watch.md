@@ -1,6 +1,6 @@
 ## Read & Watch
 
-### The Big 10
+**The Big 10**
 
 In this learning circle, you will practice a variety of strategies to surface and articulate knowledge you have gained from your life experiences. Being able to name, claim and so leverage this learning will help you be successful in personal, professional, and academic pursuits. 
 
