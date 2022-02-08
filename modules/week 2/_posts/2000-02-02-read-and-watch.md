@@ -13,8 +13,8 @@ To accomplish this, we will be using  College Unbound’s Big 10 Leadership and 
 You can think of CU’s Big 10 as valuable transferable skills that you have developed in your personal life that can also help you to be successful in work and school.  The [Big 10](https://collegeunbound.digication.com/Big10resources/my-co-curriculars) is a rubric or scoring guide that can  help you assess your skill set  by outlining the criteria for each skill as well as a way to score your proficiency in each with clear indicators of how these skills are demonstrated.
  Take a few minutes to look through the rubric and identify  the 2 skills that are your strongest and the 2 that are your weakest.
  
- **Dig Deeper**
+> **Dig Deeper**
  
-If you are interested, you can dig deeper into the work College Unbound students do with the Big 10 here: [The Big 10 Resource Page](https://collegeunbound.digication.com/Big10resources/about-me), and other ways CU students earn credit for their learning from experience here: The LIP Resource Page
+> If you are interested, you can dig deeper into the work College Unbound students do with the Big 10 here: [The Big 10 Resource Page](https://collegeunbound.digication.com/Big10resources/about-me), and other ways CU students earn credit for their learning from experience here: The LIP Resource Page
 
- You may also find it interesting to read what they have to say about rubrics here: [Why Rubrics?](https://faculty.chass.ncsu.edu/slatta/hi216/learning/whyrubrics.html) 
+ > You may also find it interesting to read what they have to say about rubrics here: [Why Rubrics?](https://faculty.chass.ncsu.edu/slatta/hi216/learning/whyrubrics.html) 
