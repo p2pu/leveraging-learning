@@ -3,3 +3,58 @@
 # Week 1:  What is learning from experience?
 
 This week, we’ll tell stories, do a little drawing, and explore what it means to “learn from experience.”
+
+## Check In:
+1. **Think** of 3 times when you’ve had an experience in which you learned something
+1. **Pair up** with a partner and tell the story of a key moment in one of these experiences. To tell your story, consider four of the ingredients of a good story:
+* Set the stage for this moment: Where were you, when was it, what was happening?
+* Take us there: Include details not only about what you thought, but also what you experienced through your senses. What did you see, hear, smell, taste, touch?
+* Tell us about the other characters in your story: Who was involved and what did they do?
+* Finally, tell us how the story ends: What was the result or consequence of this experience? 
+1. **Share** with the full group a superpower you see in your partner based upon their story 
+
+## Read & Watch:
+**What makes an experience a learning experience?**
+
+Not all experiences are learning experiences. In fact, some experiences are what John Dewey called “miseducative” – these are experiences that shut down further experience. In 1938, Dewey wrote in “any experience is miseducative that has the effect of arresting or distorting the growth of further experience” (Experience and Education, chapter 2, para. 2). Stereotypes and prejudices can be the result of this kind of miseducative experiences. When one assumes that one experience tells them all they need to know about a group of people or a place or a subject, they shut themselves off from growth and further learning. 
+
+Learning from life experiences requires reflection in which we ask ourselves questions that open doors to new learning. These might be questions such as: 
+* How did this experience compare to what I thought was going to happen? 
+* How is my experience similar and different from those others? 
+* How did I feel during the experience?
+* What seemed to go well and what did not? Why?
+* What do I think will happen next? 
+
+The Kolb learning cycle, presented in this video, is one model for how we make meaning from our experience: 
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://youtu.be/ObQ2DheGOKA" allowfullscreen></iframe>
+</div> 
+
+### Dig Deeper:
+
+If you are interested, you can dig deeper into the Kolb model and learning from experience with these resources: 
+* [This is Experiential Learning](https://youtu.be/0TeaFPSQsMY)  
+* [8 Things To Know About the Experiential Learning Cycle](https://youtu.be/v74nRbWSNqk) (FULL)
+* [Experiential Learning: Experience as the Source of Learning and Development](https://experientiallearninginstitute.org/book/experiential-learning-experience-as-the-source-of-learning-and-development-2nd-edition/) (2nd Edition) - Institute for Experiential Learning 
+* [What Is Experiential Learning?](https://experientiallearninginstitute.org/resources/what-is-experiential-learning/)
+* (PDF) [A Meta‐Analysis of the Relationship Between Experiential Learning and Learning Outcomes](https://www.researchgate.net/profile/Nathan-Heller/publication/334741704_A_Meta-Analysis_of_the_Relationship_Between_Experiential_Learning_and_Learning_Outcomes/links/5fd81da692851c13fe8926f9/A-Meta-Analysis-of-the-Relationship-Between-Experiential-Learning-and-Learning-Outcomes.pdf)
+* [Experience and Education](https://archive.org/stream/ExperienceAndEducation-JohnDewey/dewey-edu-experience_djvu.txt)
+
+## Activity:
+**Map your process**
+
+Thinking back to the experience that you described to your partner, sketch out your process of moving from experience to learning, then compare it to the process described by Kolb or any of the reflective practice models presented here [(Reflective Practice Models)](https://www.ucd.ie/teaching/t4media/reflective_practice_models.pdf).
+
+* What is similar? 
+* What is different? 
+* What might you want to try next time? 
+
+Share your sketch and your conclusions about your process with the group.
+
+![alt](https://pixabay.com/vectors/pencil-draw-to-write-stroke-5060133/)
+
+## Reflect:
+### + Plus/Delta
+
+A quick easy reflection activity is asking everybody one thing that went well that day (“plus”) and one thing to change for the next week (“delta”). These contributions are a great way for facilitators to get fresh feedback and can seed a brief conversation about ways to improve the next meeting. This can be answered out loud or typed out into a video chat or collaborative agenda if time is short.
