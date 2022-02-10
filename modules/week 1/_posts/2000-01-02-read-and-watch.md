@@ -2,7 +2,7 @@
 
 **What makes an experience a learning experience?**
 
-Not all experiences are learning experiences. In fact, some experiences are what John Dewey called “miseducative” – these are experiences that shut down further experience. In 1938, Dewey wrote in “any experience is miseducative that has the effect of arresting or distorting the growth of further experience” (Experience and Education, chapter 2, para. 2). Stereotypes and prejudices can be the result of this kind of miseducative experiences. When one assumes that one experience tells them all they need to know about a group of people or a place or a subject, they shut themselves off from growth and further learning. 
+Not all experiences are learning experiences. In fact, some experiences are what John Dewey called “miseducative” – these are experiences that shut down further experience. In 1938, Dewey wrote in “any experience is miseducative that has the effect of arresting or distorting the growth of further experience” [(Experience and Education, chapter 2, para. 2)](https://archive.org/stream/ExperienceAndEducation-JohnDewey/dewey-edu-experience_djvu.txt). Stereotypes and prejudices can be the result of this kind of miseducative experiences. When one assumes that one experience tells them all they need to know about a group of people or a place or a subject, they shut themselves off from growth and further learning. 
 
 Learning from life experiences requires reflection in which we ask ourselves questions that open doors to new learning. These might be questions such as: 
 * How did this experience compare to what I thought was going to happen? 
