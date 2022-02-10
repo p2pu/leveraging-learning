@@ -1,5 +1,5 @@
 ### Read & Watch:
-
+<br>
 Watch this video in which cognitive psychologist LeeAnn Renniger shares what her research has shown on how to provide good feedback:  
 <br>
 <div class="embed-responsive embed-responsive-16by9">
