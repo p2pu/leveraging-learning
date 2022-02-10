@@ -19,11 +19,10 @@ The Kolb learning cycle, presented in this video, is one model for how we make m
 
 <br> <br> 
 >**Dig Deeper:**
->
-> If you are interested, you can dig deeper into the Kolb model and learning from experience with these resources: 
-> * [This is Experiential Learning](https://youtu.be/0TeaFPSQsMY)  
-> * [8 Things To Know About the Experiential Learning Cycle](https://youtu.be/v74nRbWSNqk) (FULL)
-> * [Experiential Learning: Experience as the Source of Learning and Development](https://experientiallearninginstitute.org/book/experiential-learning-experience-as-the-source-of-learning-and-development-2nd-edition/) (2nd Edition) - Institute for Experiential Learning 
-> * [What Is Experiential Learning?](https://experientiallearninginstitute.org/resources/what-is-experiential-learning/)
-> * (PDF) [A Meta‐Analysis of the Relationship Between Experiential Learning and Learning Outcomes](https://www.researchgate.net/profile/Nathan-Heller/publication/334741704_A_Meta-Analysis_of_the_Relationship_Between_Experiential_Learning_and_Learning_Outcomes/links/5fd81da692851c13fe8926f9/A-Meta-Analysis-of-the-Relationship-Between-Experiential-Learning-and-Learning-Outcomes.pdf)
-> * [Experience and Education](https://archive.org/stream/ExperienceAndEducation-JohnDewey/dewey-edu-experience_djvu.txt)
+If you are interested, you can dig deeper into the Kolb model and learning from experience with these resources: 
+* [This is Experiential Learning](https://youtu.be/0TeaFPSQsMY)  
+* [8 Things To Know About the Experiential Learning Cycle](https://youtu.be/v74nRbWSNqk) (FULL)
+* [Experiential Learning: Experience as the Source of Learning and Development](https://experientiallearninginstitute.org/book/experiential-learning-experience-as-the-source-of-learning-and-development-2nd-edition/) (2nd Edition) - Institute for Experiential Learning 
+* [What Is Experiential Learning?](https://experientiallearninginstitute.org/resources/what-is-experiential-learning/)
+* (PDF) [A Meta‐Analysis of the Relationship Between Experiential Learning and Learning Outcomes](https://www.researchgate.net/profile/Nathan-Heller/publication/334741704_A_Meta-Analysis_of_the_Relationship_Between_Experiential_Learning_and_Learning_Outcomes/links/5fd81da692851c13fe8926f9/A-Meta-Analysis-of-the-Relationship-Between-Experiential-Learning-and-Learning-Outcomes.pdf)
+* [Experience and Education](https://archive.org/stream/ExperienceAndEducation-JohnDewey/dewey-edu-experience_djvu.txt)
