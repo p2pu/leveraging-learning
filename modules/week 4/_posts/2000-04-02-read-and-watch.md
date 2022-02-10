@@ -26,7 +26,9 @@ Watch [Generative Knowledge: Uncovering Hidden Strengths, Purpose & Intelligence
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fTsdC853f08&ab" allowfullscreen></iframe>
 </div>
 
- :honeybee: **Buzz / Think-Pair-Share **
+<br>
+
+:honeybee: **Buzz / Think-Pair-Share **
  
 Then, write down your answers to the following questions:
 
