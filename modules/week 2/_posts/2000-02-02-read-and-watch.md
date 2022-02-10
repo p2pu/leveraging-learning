@@ -14,7 +14,5 @@ You can think of CU’s Big 10 as valuable transferable skills that you have dev
  Take a few minutes to look through the rubric and identify  the 2 skills that are your strongest and the 2 that are your weakest.
  
 > **Dig Deeper**
- 
-> If you are interested, you can dig deeper into the work College Unbound students do with the Big 10 here: [The Big 10 Resource Page](https://collegeunbound.digication.com/Big10resources/about-me), and other ways CU students earn credit for their learning from experience here: The LIP Resource Page
-
- > You may also find it interesting to read what they have to say about rubrics here: [Why Rubrics?](https://faculty.chass.ncsu.edu/slatta/hi216/learning/whyrubrics.html) 
+If you are interested, you can dig deeper into the work College Unbound students do with the Big 10 here: [The Big 10 Resource Page](https://collegeunbound.digication.com/Big10resources/about-me), and other ways CU students earn credit for their learning from experience here: The LIP Resource Page
+You may also find it interesting to read what they have to say about rubrics here: [Why Rubrics?](https://faculty.chass.ncsu.edu/slatta/hi216/learning/whyrubrics.html) 
