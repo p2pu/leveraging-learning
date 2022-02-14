@@ -1,4 +1,4 @@
-### Read & Watch
+### Read, Watch, & Discuss
 
 We have used inductive and deductive reasoning and feedback from others to surface tacit knowledge. This week, you will learn about and next week you will practice another strategy – Generative Knowledge Interviewing (GKI). If you like to talk through your ideas or you have found that you often discover what you want to say when you bounce your ideas off of others, GKI may be a particularly useful method for you.
 
@@ -36,7 +36,7 @@ Then, write down your answers to the following questions:
 1. How do you think of embodied knowledge?
 1. How is the kind of listening she describes similar to and or different from what you have experienced?
 
-Share your responses with a partner, and then with the  group.
+Share your responses with a partner, and then with the group.
 
 > **Dig Deeper:** If you want to learn more about Melissa Peet’s work, see [The Generative Knowledge Institute](https://generativeknowledge.com).
 
