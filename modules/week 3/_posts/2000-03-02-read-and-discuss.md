@@ -1,3 +1,4 @@
+
 ### Read & Discuss
 
 What is something that you have done so often that you don’t think about how to do it? 
