@@ -1,4 +1,4 @@
-## Read & Discuss:
+### Read & Discuss:
 
 **The Big 10**
 
