@@ -1,4 +1,4 @@
-### Read, Watch, & Discuss
+### Read, Watch, & Discuss:
 
 We have used inductive and deductive reasoning and feedback from others to surface tacit knowledge. This week, you will learn about and next week you will practice another strategy – Generative Knowledge Interviewing (GKI). If you like to talk through your ideas or you have found that you often discover what you want to say when you bounce your ideas off of others, GKI may be a particularly useful method for you.
 
