@@ -1,4 +1,5 @@
 ### Read, Watch, & Discuss:
+<br>
 
 Watch this video in which cognitive psychologist LeeAnn Renniger shares what her research has shown on how to provide good feedback: 
 
@@ -7,5 +8,5 @@ Watch this video in which cognitive psychologist LeeAnn Renniger shares what her
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wtl5UrrgU8c&ab" allowfullscreen></iframe>
 </div>
 
-
-Discuss how Renniger’s claims do or do not correspond to your experience.
+<br><br>
+**Discuss** how Renniger’s claims do or do not correspond to your experience.
