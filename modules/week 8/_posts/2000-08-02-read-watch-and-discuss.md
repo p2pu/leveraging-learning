@@ -8,5 +8,5 @@ Watch this video in which cognitive psychologist LeeAnn Renniger shares what her
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wtl5UrrgU8c&ab" allowfullscreen></iframe>
 </div>
 
-<br><br>
+<br>
 **Discuss** how Renniger’s claims do or do not correspond to your experience.
