@@ -1,7 +1,7 @@
 
 ### Read & Discuss
 
-What is something that you have done so often that you don’t think about how to do it? 
+<img align="right" src="/img/iceberg.png"> What is something that you have done so often that you don’t think about how to do it? 
 
 As the image of the iceberg conveys, a good deal of what we know is tacit rather than explicit knowledge – knowledge that is below the surface of our conscious awareness. When, for example, is the last time (outside of a yoga class) that you thought about how to breathe or how to balance on your feet? 
 
@@ -16,3 +16,6 @@ At work, the ability to articulate your tacit knowledge will not only allow you 
 In the learning circle this week and next, you will practice several different ways to surface your tacit knowledge. 
 
 ![alt]({{site.baseurl}}/img/iceberg.png)
+
+
+
