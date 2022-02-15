@@ -15,4 +15,4 @@ At work, the ability to articulate your tacit knowledge will not only allow you 
 
 In the learning circle this week and next, you will practice several different ways to surface your tacit knowledge. 
 
-![alt](/img/iceberg.png)
+![alt]({{site.baseurl}}/img/iceberg.png)
