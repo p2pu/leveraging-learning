@@ -5,7 +5,7 @@ published: true
 
 **What?** While school records are a dominant way of documenting learning, most learning does not happen in school. In this learning circle, you will learn strategies for identifying, evaluating, and documenting the learning that you have gained beyond school. 
 
-**Why?**  At the end of this learning circle, you will be well prepared for job interviews and have documentation you can use to earn credit from College Unbound for your learning from life.  
+**Why?** At the end of this learning circle, you will be better prepared for job interviews and/or for conversations with your current employer about your strengths. In addition, if you wish to complete a bachelor’s degree, you will have earned credit toward your degree at [College Unbound](https://www.collegeunbound.org).
 
 **For whom?** This learning circle will be most helpful for those embarking upon a job search and those looking to return to school to earn a Bachelor’s degree.
 
