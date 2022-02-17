@@ -16,3 +16,4 @@ published: true
 * Organize and present the results of this articulation and alignment in a portfolio.
 * Plan for future development of your learning.
 
+![alt]({{site.baseurl}}/img/acknowledgments.png)
